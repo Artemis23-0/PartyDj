@@ -1,1 +1,1 @@
-# PartyDj
+# PartyDJ
